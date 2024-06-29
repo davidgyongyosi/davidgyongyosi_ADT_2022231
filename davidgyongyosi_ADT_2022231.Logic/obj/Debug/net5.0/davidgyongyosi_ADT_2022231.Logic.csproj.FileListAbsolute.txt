@@ -1,0 +1,17 @@
+/Users/david/Documents/git-repos/davidgyongyosi_ADT_2022231/davidgyongyosi_ADT_2022231.Logic/bin/Debug/net5.0/davidgyongyosi_ADT_2022231.Logic.deps.json
+/Users/david/Documents/git-repos/davidgyongyosi_ADT_2022231/davidgyongyosi_ADT_2022231.Logic/bin/Debug/net5.0/davidgyongyosi_ADT_2022231.Logic.dll
+/Users/david/Documents/git-repos/davidgyongyosi_ADT_2022231/davidgyongyosi_ADT_2022231.Logic/bin/Debug/net5.0/davidgyongyosi_ADT_2022231.Logic.pdb
+/Users/david/Documents/git-repos/davidgyongyosi_ADT_2022231/davidgyongyosi_ADT_2022231.Logic/bin/Debug/net5.0/davidgyongyosi_ADT_2022231.Models.dll
+/Users/david/Documents/git-repos/davidgyongyosi_ADT_2022231/davidgyongyosi_ADT_2022231.Logic/bin/Debug/net5.0/davidgyongyosi_ADT_2022231.Repository.dll
+/Users/david/Documents/git-repos/davidgyongyosi_ADT_2022231/davidgyongyosi_ADT_2022231.Logic/bin/Debug/net5.0/davidgyongyosi_ADT_2022231.Models.pdb
+/Users/david/Documents/git-repos/davidgyongyosi_ADT_2022231/davidgyongyosi_ADT_2022231.Logic/bin/Debug/net5.0/davidgyongyosi_ADT_2022231.Repository.pdb
+/Users/david/Documents/git-repos/davidgyongyosi_ADT_2022231/davidgyongyosi_ADT_2022231.Logic/obj/Debug/net5.0/davidgyongyosi_ADT_2022231.Logic.csproj.AssemblyReference.cache
+/Users/david/Documents/git-repos/davidgyongyosi_ADT_2022231/davidgyongyosi_ADT_2022231.Logic/obj/Debug/net5.0/davidgyongyosi_ADT_2022231.Logic.GeneratedMSBuildEditorConfig.editorconfig
+/Users/david/Documents/git-repos/davidgyongyosi_ADT_2022231/davidgyongyosi_ADT_2022231.Logic/obj/Debug/net5.0/davidgyongyosi_ADT_2022231.Logic.AssemblyInfoInputs.cache
+/Users/david/Documents/git-repos/davidgyongyosi_ADT_2022231/davidgyongyosi_ADT_2022231.Logic/obj/Debug/net5.0/davidgyongyosi_ADT_2022231.Logic.AssemblyInfo.cs
+/Users/david/Documents/git-repos/davidgyongyosi_ADT_2022231/davidgyongyosi_ADT_2022231.Logic/obj/Debug/net5.0/davidgyongyosi_ADT_2022231.Logic.csproj.CoreCompileInputs.cache
+/Users/david/Documents/git-repos/davidgyongyosi_ADT_2022231/davidgyongyosi_ADT_2022231.Logic/obj/Debug/net5.0/davidgyo.D4D6D0C8.Up2Date
+/Users/david/Documents/git-repos/davidgyongyosi_ADT_2022231/davidgyongyosi_ADT_2022231.Logic/obj/Debug/net5.0/davidgyongyosi_ADT_2022231.Logic.dll
+/Users/david/Documents/git-repos/davidgyongyosi_ADT_2022231/davidgyongyosi_ADT_2022231.Logic/obj/Debug/net5.0/refint/davidgyongyosi_ADT_2022231.Logic.dll
+/Users/david/Documents/git-repos/davidgyongyosi_ADT_2022231/davidgyongyosi_ADT_2022231.Logic/obj/Debug/net5.0/davidgyongyosi_ADT_2022231.Logic.pdb
+/Users/david/Documents/git-repos/davidgyongyosi_ADT_2022231/davidgyongyosi_ADT_2022231.Logic/obj/Debug/net5.0/ref/davidgyongyosi_ADT_2022231.Logic.dll

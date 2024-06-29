@@ -1,0 +1,46 @@
+﻿<Properties StartupConfiguration="Multiple Projects">
+  <MultiItemStartupConfigurations>
+    <MultiItemSolutionRunConfiguration Id="Multiple Projects" Name="Multiple Projects">
+      <Items>
+        <StartupItem ItemId="{B8614FAE-1AD7-4426-9258-043665544F97}" ItemName="UAIM7R_HFT_2022231.Client" ConfigurationId="Default" />
+        <StartupItem ItemId="{59BBC123-E4BC-44DF-BD2E-76784B8B2416}" ItemName="UAIM7R_HFT_2022231.Endpoint" ConfigurationId="Default" />
+      </Items>
+    </MultiItemSolutionRunConfiguration>
+  </MultiItemStartupConfigurations>
+  <MonoDevelop.Ide.ItemProperties.Backend.UAIM7R__HFT__2022231.Logic FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.Backend.UAIM7R__HFT__2022231.Test FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.Backend.UAIM7R__HFT__2022231.Endpoint FirstBuild="True" PreferredExecutionTarget="/Applications/Safari.app" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.Frontend.UAIM7R__HFT__2022231.Client FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.Backend.UAIM7R__HFT__2022231.Repository FirstBuild="True" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workbench ActiveDocument="../UAIM7R_HFT_2022231.Test/Class1.cs">
+    <Files>
+      <File FileName="Program.cs" Line="1" Column="1" />
+      <File FileName="../UAIM7R_HFT_2022231.Models/Class1.cs" Line="1" Column="1" />
+      <File FileName="../UAIM7R_HFT_2022231.Logic/Class1.cs" Line="1" Column="1" />
+      <File FileName="../UAIM7R_HFT_2022231.Repository/Class1.cs" Line="1" Column="1" />
+      <File FileName="../UAIM7R_HFT_2022231.Test/Class1.cs" Line="10" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="UAIM7R_HFT_2022231" expanded="True">
+            <Node name="Backend" expanded="True">
+              <Node name="UAIM7R_HFT_2022231.Test" expanded="True" />
+            </Node>
+            <Node name="Frontend" expanded="True" />
+            <Node name="Shared" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.Shared.UAIM7R__HFT__2022231.Models FirstBuild="True" />
+</Properties>

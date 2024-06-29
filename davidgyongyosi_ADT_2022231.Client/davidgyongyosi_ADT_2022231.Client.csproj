@@ -1,0 +1,21 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net5.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\davidgyongyosi_ADT_2022231.Models\davidgyongyosi_ADT_2022231.Models.csproj" />
+    <ProjectReference Include="..\davidgyongyosi_ADT_2022231.Logic\davidgyongyosi_ADT_2022231.Logic.csproj" />
+    <ProjectReference Include="..\davidgyongyosi_ADT_2022231.Repository\davidgyongyosi_ADT_2022231.Repository.csproj" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Remove="ConsoleMenu-simple" />
+    <None Remove="Microsoft.AspNet.WebApi.Client" />
+  </ItemGroup>
+  <ItemGroup>
+    <PackageReference Include="ConsoleMenu-simple" Version="2.4.3" />
+    <PackageReference Include="Microsoft.AspNet.WebApi.Client" Version="5.2.9" />
+  </ItemGroup>
+</Project>

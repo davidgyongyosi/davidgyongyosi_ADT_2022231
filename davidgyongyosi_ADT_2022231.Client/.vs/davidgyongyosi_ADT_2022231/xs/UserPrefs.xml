@@ -1,0 +1,69 @@
+﻿<Properties StartupConfiguration="Multiple Projects">
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.Backend.davidgyongyosi__ADT__2022231.Endpoint PreferredExecutionTarget="/System/Volumes/Preboot/Cryptexes/App/System/Applications/Safari.app" />
+  <MonoDevelop.Ide.ItemProperties.Frontend.davidgyongyosi__ADT__2022231.Client PreferredExecutionTarget="MonoDevelop.Default" />
+  <MultiItemStartupConfigurations>
+    <MultiItemSolutionRunConfiguration Id="Multiple Projects" Name="Multiple Projects">
+      <Items>
+        <StartupItem ItemId="{B8614FAE-1AD7-4426-9258-043665544F97}" ItemName="UAIM7R_HFT_2022231.Client" ConfigurationId="Default" />
+        <StartupItem ItemId="{59BBC123-E4BC-44DF-BD2E-76784B8B2416}" ItemName="UAIM7R_HFT_2022231.Endpoint" />
+      </Items>
+    </MultiItemSolutionRunConfiguration>
+  </MultiItemStartupConfigurations>
+  <MonoDevelop.Ide.Workbench ActiveDocument="../davidgyongyosi_ADT_2022231.Models/Platform.cs">
+    <Files>
+      <File FileName="Program.cs" Line="20" Column="37" />
+      <File FileName="davidgyongyosi_ADT_2022231.Client.csproj" />
+      <File FileName="RestService.cs" Line="1" Column="1" />
+      <File FileName="../davidgyongyosi_ADT_2022231.Endpoint/GameController.cs" Line="1" Column="1" />
+      <File FileName="../davidgyongyosi_ADT_2022231.Endpoint/GenreController.cs" Line="1" Column="1" />
+      <File FileName="../davidgyongyosi_ADT_2022231.Endpoint/PlatformController.cs" Line="1" Column="1" />
+      <File FileName="../davidgyongyosi_ADT_2022231.Endpoint/Program.cs" Line="1" Column="1" />
+      <File FileName="../davidgyongyosi_ADT_2022231.Endpoint/Startup.cs" Line="1" Column="1" />
+      <File FileName="../davidgyongyosi_ADT_2022231.Logic/Classes/GameLogic.cs" Line="1" Column="1" />
+      <File FileName="../davidgyongyosi_ADT_2022231.Logic/Classes/GenreLogic.cs" Line="1" Column="1" />
+      <File FileName="../davidgyongyosi_ADT_2022231.Logic/Classes/PlatformLogic.cs" Line="1" Column="1" />
+      <File FileName="../davidgyongyosi_ADT_2022231.Logic/Interfaces/IGameLogic.cs" Line="5" Column="37" />
+      <File FileName="../davidgyongyosi_ADT_2022231.Logic/Interfaces/IGenreLogic.cs" Line="4" Column="37" />
+      <File FileName="../davidgyongyosi_ADT_2022231.Logic/Interfaces/IPlatformLogic.cs" Line="4" Column="37" />
+      <File FileName="../davidgyongyosi_ADT_2022231.Repository/Interfaces/IGameRepository.cs" Line="3" Column="37" />
+      <File FileName="../davidgyongyosi_ADT_2022231.Repository/Interfaces/IGenericRepository.cs" Line="3" Column="37" />
+      <File FileName="../davidgyongyosi_ADT_2022231.Repository/Interfaces/IGenreRepository.cs" Line="4" Column="37" />
+      <File FileName="../davidgyongyosi_ADT_2022231.Repository/Interfaces/IPlatformRepository.cs" Line="4" Column="37" />
+      <File FileName="../davidgyongyosi_ADT_2022231.Repository/Repositories/GameRepository.cs" Line="1" Column="1" />
+      <File FileName="../davidgyongyosi_ADT_2022231.Repository/Repositories/GenericRepository.cs" Line="4" Column="37" />
+      <File FileName="../davidgyongyosi_ADT_2022231.Repository/Repositories/GenreRepository.cs" Line="6" Column="37" />
+      <File FileName="../davidgyongyosi_ADT_2022231.Repository/Repositories/PlatformRepository.cs" Line="6" Column="37" />
+      <File FileName="../davidgyongyosi_ADT_2022231.Repository/GamesDbContext.cs" Line="9" Column="37" />
+      <File FileName="../davidgyongyosi_ADT_2022231.Test/GameLogicTester.cs" Line="9" Column="37" />
+      <File FileName="../davidgyongyosi_ADT_2022231.Test/GenreLogicTester.cs" Line="11" Column="37" />
+      <File FileName="../davidgyongyosi_ADT_2022231.Test/MockGameLogicTester.cs" Line="10" Column="37" />
+      <File FileName="../davidgyongyosi_ADT_2022231.Test/PlatformLogicTester.cs" Line="10" Column="37" />
+      <File FileName="../davidgyongyosi_ADT_2022231.Models/Game.cs" Line="1" Column="1" />
+      <File FileName="../davidgyongyosi_ADT_2022231.Models/GamePlatform.cs" Line="1" Column="1" />
+      <File FileName="../davidgyongyosi_ADT_2022231.Models/Genre.cs" Line="1" Column="1" />
+      <File FileName="../davidgyongyosi_ADT_2022231.Models/Platform.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="davidgyongyosi_ADT_2022231" expanded="True">
+            <Node name="Backend" expanded="True" />
+            <Node name="Frontend" expanded="True">
+              <Node name="davidgyongyosi_ADT_2022231.Client" expanded="True" />
+            </Node>
+            <Node name="Shared" expanded="True">
+              <Node name="davidgyongyosi_ADT_2022231.Models" expanded="True">
+                <Node name="Platform.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+</Properties>

@@ -1,0 +1,323 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/david/Documents/git-repos/davidgyongyosi_ADT_2022231/davidgyongyosi_ADT_2022231.Client/davidgyongyosi_ADT_2022231.Client.csproj": {}
+  },
+  "projects": {
+    "/Users/david/Documents/git-repos/davidgyongyosi_ADT_2022231/davidgyongyosi_ADT_2022231.Client/davidgyongyosi_ADT_2022231.Client.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/david/Documents/git-repos/davidgyongyosi_ADT_2022231/davidgyongyosi_ADT_2022231.Client/davidgyongyosi_ADT_2022231.Client.csproj",
+        "projectName": "davidgyongyosi_ADT_2022231.Client",
+        "projectPath": "/Users/david/Documents/git-repos/davidgyongyosi_ADT_2022231/davidgyongyosi_ADT_2022231.Client/davidgyongyosi_ADT_2022231.Client.csproj",
+        "packagesPath": "/Users/david/.nuget/packages/",
+        "outputPath": "/Users/david/Documents/git-repos/davidgyongyosi_ADT_2022231/davidgyongyosi_ADT_2022231.Client/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/david/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "/usr/local/share/dotnet/library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "/Users/david/Documents/git-repos/davidgyongyosi_ADT_2022231/davidgyongyosi_ADT_2022231.Logic/davidgyongyosi_ADT_2022231.Logic.csproj": {
+                "projectPath": "/Users/david/Documents/git-repos/davidgyongyosi_ADT_2022231/davidgyongyosi_ADT_2022231.Logic/davidgyongyosi_ADT_2022231.Logic.csproj"
+              },
+              "/Users/david/Documents/git-repos/davidgyongyosi_ADT_2022231/davidgyongyosi_ADT_2022231.Models/davidgyongyosi_ADT_2022231.Models.csproj": {
+                "projectPath": "/Users/david/Documents/git-repos/davidgyongyosi_ADT_2022231/davidgyongyosi_ADT_2022231.Models/davidgyongyosi_ADT_2022231.Models.csproj"
+              },
+              "/Users/david/Documents/git-repos/davidgyongyosi_ADT_2022231/davidgyongyosi_ADT_2022231.Repository/davidgyongyosi_ADT_2022231.Repository.csproj": {
+                "projectPath": "/Users/david/Documents/git-repos/davidgyongyosi_ADT_2022231/davidgyongyosi_ADT_2022231.Repository/davidgyongyosi_ADT_2022231.Repository.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "ConsoleMenu-simple": {
+              "target": "Package",
+              "version": "[2.4.3, )"
+            },
+            "Microsoft.AspNet.WebApi.Client": {
+              "target": "Package",
+              "version": "[5.2.9, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[5.0.0, 5.0.0]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Host.osx-x64",
+              "version": "[5.0.17, 5.0.17]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[5.0.0, 5.0.0]"
+            }
+          ],
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.201/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/david/Documents/git-repos/davidgyongyosi_ADT_2022231/davidgyongyosi_ADT_2022231.Logic/davidgyongyosi_ADT_2022231.Logic.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/david/Documents/git-repos/davidgyongyosi_ADT_2022231/davidgyongyosi_ADT_2022231.Logic/davidgyongyosi_ADT_2022231.Logic.csproj",
+        "projectName": "davidgyongyosi_ADT_2022231.Logic",
+        "projectPath": "/Users/david/Documents/git-repos/davidgyongyosi_ADT_2022231/davidgyongyosi_ADT_2022231.Logic/davidgyongyosi_ADT_2022231.Logic.csproj",
+        "packagesPath": "/Users/david/.nuget/packages/",
+        "outputPath": "/Users/david/Documents/git-repos/davidgyongyosi_ADT_2022231/davidgyongyosi_ADT_2022231.Logic/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/david/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "/usr/local/share/dotnet/library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "/Users/david/Documents/git-repos/davidgyongyosi_ADT_2022231/davidgyongyosi_ADT_2022231.Models/davidgyongyosi_ADT_2022231.Models.csproj": {
+                "projectPath": "/Users/david/Documents/git-repos/davidgyongyosi_ADT_2022231/davidgyongyosi_ADT_2022231.Models/davidgyongyosi_ADT_2022231.Models.csproj"
+              },
+              "/Users/david/Documents/git-repos/davidgyongyosi_ADT_2022231/davidgyongyosi_ADT_2022231.Repository/davidgyongyosi_ADT_2022231.Repository.csproj": {
+                "projectPath": "/Users/david/Documents/git-repos/davidgyongyosi_ADT_2022231/davidgyongyosi_ADT_2022231.Repository/davidgyongyosi_ADT_2022231.Repository.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[5.0.0, 5.0.0]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[5.0.0, 5.0.0]"
+            }
+          ],
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.201/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/david/Documents/git-repos/davidgyongyosi_ADT_2022231/davidgyongyosi_ADT_2022231.Models/davidgyongyosi_ADT_2022231.Models.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/david/Documents/git-repos/davidgyongyosi_ADT_2022231/davidgyongyosi_ADT_2022231.Models/davidgyongyosi_ADT_2022231.Models.csproj",
+        "projectName": "davidgyongyosi_ADT_2022231.Models",
+        "projectPath": "/Users/david/Documents/git-repos/davidgyongyosi_ADT_2022231/davidgyongyosi_ADT_2022231.Models/davidgyongyosi_ADT_2022231.Models.csproj",
+        "packagesPath": "/Users/david/.nuget/packages/",
+        "outputPath": "/Users/david/Documents/git-repos/davidgyongyosi_ADT_2022231/davidgyongyosi_ADT_2022231.Models/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/david/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "/usr/local/share/dotnet/library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[5.0.0, 5.0.0]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[5.0.0, 5.0.0]"
+            }
+          ],
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.201/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/david/Documents/git-repos/davidgyongyosi_ADT_2022231/davidgyongyosi_ADT_2022231.Repository/davidgyongyosi_ADT_2022231.Repository.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/david/Documents/git-repos/davidgyongyosi_ADT_2022231/davidgyongyosi_ADT_2022231.Repository/davidgyongyosi_ADT_2022231.Repository.csproj",
+        "projectName": "davidgyongyosi_ADT_2022231.Repository",
+        "projectPath": "/Users/david/Documents/git-repos/davidgyongyosi_ADT_2022231/davidgyongyosi_ADT_2022231.Repository/davidgyongyosi_ADT_2022231.Repository.csproj",
+        "packagesPath": "/Users/david/.nuget/packages/",
+        "outputPath": "/Users/david/Documents/git-repos/davidgyongyosi_ADT_2022231/davidgyongyosi_ADT_2022231.Repository/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/david/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "/usr/local/share/dotnet/library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "/Users/david/Documents/git-repos/davidgyongyosi_ADT_2022231/davidgyongyosi_ADT_2022231.Models/davidgyongyosi_ADT_2022231.Models.csproj": {
+                "projectPath": "/Users/david/Documents/git-repos/davidgyongyosi_ADT_2022231/davidgyongyosi_ADT_2022231.Models/davidgyongyosi_ADT_2022231.Models.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[5.0.17, )"
+            },
+            "Microsoft.EntityFrameworkCore.InMemory": {
+              "target": "Package",
+              "version": "[5.0.17, )"
+            },
+            "Microsoft.EntityFrameworkCore.Proxies": {
+              "target": "Package",
+              "version": "[5.0.17, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[5.0.17, )"
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[5.0.0, 5.0.0]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[5.0.0, 5.0.0]"
+            }
+          ],
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.201/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

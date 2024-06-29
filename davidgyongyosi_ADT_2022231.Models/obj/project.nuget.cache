@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "Jfje9yJgDaylG4wQRJISkAHOICYcZyrFSfGlEQSTzTwIkm+Tg/TSsOwfwliTt7mOW1BpROwZN+0ckPhsYKdQpQ==",
+  "success": true,
+  "projectFilePath": "/Users/david/Documents/git-repos/davidgyongyosi_ADT_2022231/davidgyongyosi_ADT_2022231.Models/davidgyongyosi_ADT_2022231.Models.csproj",
+  "expectedPackageFiles": [
+    "/Users/david/.nuget/packages/microsoft.aspnetcore.app.ref/5.0.0/microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512",
+    "/Users/david/.nuget/packages/microsoft.netcore.app.ref/5.0.0/microsoft.netcore.app.ref.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
